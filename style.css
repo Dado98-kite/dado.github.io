@@ -11,6 +11,7 @@ h2 {
 .fi {
     text-align: center;
     color: red;
+    font-weight: bold;
 }
 
 p {
