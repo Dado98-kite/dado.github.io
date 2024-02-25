@@ -1,6 +1,13 @@
 header {
-    text-align: center;
+    /*text-align: center;*/
     color: red;
+    background-image: url(https://dl.dropboxusercontent.com/scl/fi/y60rnud9h45jzjb4dv9qq/photo_3_2024-02-25_09-07-49.jpg?rlkey=meeq2epusosk8j7ptqc2b7vcy&dl=0);
+    height: 600px;
+    width: auto;
+    display:flex;
+    justify-content: center;
+    background-position: center center;
+
 }
 
 h2 {
